@@ -4141,6 +4141,8 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [AtomicChocolate's Solution (Easy)](https://github.com/AtomicChocolate/google-homepage) - [View in Browser](https://atomicchocolate.github.io/google-homepage/)
 * [Sandie's Solution (Easy)](https://github.com/sandie-x/google-homepage) - [View in Browser](https://sandie-x.github.io/google-homepage/)
 * [Matheus's Solution (Easy)](https://github.com/matheussilvaesousa/google-homepage) - [View in Browser](https://matheussilvaesousa.github.io/google-homepage/)
+* [Russell's Solution (Easy)](ttps://github.com/russellmurray93/google-homepage/) - [View in Browser](https://russellmurray93.github.io/google-homepage/)
+
 </details>
 
 
